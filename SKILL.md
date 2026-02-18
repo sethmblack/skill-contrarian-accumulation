@@ -4,7 +4,8 @@ description: Systematically evaluate and acquire assets that are being abandoned
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3681
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contrarian-accumulation
 - writing
